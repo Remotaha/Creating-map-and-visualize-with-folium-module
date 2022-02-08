@@ -1,0 +1,82 @@
+number,Province,Area (SQ.km),Province 2000 Census population,Province 2007 Census population,Populatio,Capital,population,Census region
+1,Adana,"14,045.56","18,54,270","20,06,650",143,Adana,1130710,Mediterranean
+2,Adiyaman,"7,606.16","6,23,811","5,82,762",77,Adiyaman,178538,Southeastern Anatolia
+3,Afyonkarahisar,"14,718.63","8,12,416","7,01,572",48,Afyon,128516,Aegean
+4,Agri,"11,498.67","5,28,744","5,39,879",47,Agri,79764,Eastern Anatolia
+5,Amasya,"5,703.78","3,65,231","3,28,674",58,Amasya,74393,Black Sea
+6,Ankara,"25,401.94","40,07,860","44,66,756",176,Ankara,3203362,Central Anatolia
+7,Antalya,"20,790.56","17,19,751","17,89,295",86,Antalya,603190,Mediterranean
+8,Artvin,"7,367.10","1,91,934","1,68,092",23,Artvin,25500,Black Sea
+9,Aydin,"7,904.43","9,50,757","9,46,971",120,Aydin,143267,Aegean
+10,Balikesir,"14,472.73","10,76,347","11,18,313",77,Balikesir,215436,Marmara
+11,Bilecik,"4,306.77","1,94,326","2,03,777",47,Bilecik,49700,Marmara
+12,Bingol,"8,253.51","2,53,739","2,51,552",30,Bingol,68876,Eastern Anatolia
+13,Bitlis,"7,094.50","3,88,678","3,27,886",46,Bitlis,46200,Eastern Anatolia
+14,Bolu,"8,323.39","2,70,654","2,70,417",32,Bolu,84565,Black Sea
+15,Burdur,"7,134.95","2,56,803","2,51,181",35,Burdur,63363,Mediterranean
+16,Bursa,"10,886.38","21,25,140","24,39,876",224,Bursa,1194687,Marmara
+17,Canakkale,"9,950.43","4,64,975","4,76,128",48,Canakkale,75810,Marmara
+18,Cankiri,"7,491.89","2,70,355","1,74,012",23,Cankiri,62508,Central Anatolia
+19,Corum,"12,796.21","5,97,065","5,49,828",43,Corum,161321,Black Sea
+20,Denizli,"11,804.19","9,50,757","9,46,971",80,Denizli,275480,Aegean
+21,Diyarbakir,"15,204.01","13,62,708","14,60,714",96,Diyarbakir,545983,Southeastern Anatolia
+22,Edirne,"6,097.91","4,02,606","3,96,462",65,Edirne,119298,Marmara
+23,Elazig,"9,281.45","5,69,616","5,41,258",58,Elazig,266495,Eastern Anatolia
+24,Erzincan,"11,727.55","3,16,841","2,13,538",18,Erzincan,107175,Eastern Anatolia
+25,Erzurum,"25,330.90","9,37,389","7,84,941",31,Erzurum,361235,Eastern Anatolia
+26,Eskisehir,"13,902.03","7,06,009","7,24,849",52,Eskisehir,482793,Central Anatolia
+27,Gaziantep,"6,844.84","12,85,249","15,60,023",228,Gaziantep,853513,Southeastern Anatolia
+28,Giresun,"6,831.58","5,23,819","4,17,505",61,Giresun,83636,Black Sea
+29,Gumushane,"6,437.01","1,86,953","1,30,825",20,Gumushane,31000,Black Sea
+30,Hakkari,"7,178.88","2,36,581","2,46,469",34,Hakkari,58145,Eastern Anatolia
+31,Hatay,"5,831.36","12,53,726","13,86,224",238,Antakya,144910,Mediterranean
+32,Isparta,"8,871.08","5,13,681","4,19,845",47,Isparta,148496,Mediterranean
+33,Mersin,"15,512.25","16,51,400","15,95,938",103,Mersin,537842,Mediterranean
+34,Istanbul,"5,315.33","1,00,18,735","1,25,73,836","2,366",Istanbul,8803468,Marmara
+35,Izmir,"12,015.61","33,70,866","37,39,353",311,Izmir,2232265,Aegean
+36,Kars,"10,139.09","3,25,016","3,12,205",31,Kars,78473,Eastern Anatolia
+37,Kastamonu,"13,157.98","3,75,476","3,60,366",27,Kastamonu,64606,Black Sea
+38,Kayseri,"17,109.33","10,60,432","11,65,088",68,Kayseri,536392,Central Anatolia
+39,Kirklareli,"6,299.78","3,28,461","3,33,256",53,Kirklareli,53221,Marmara
+40,Kirsehir,"6,530.32","2,53,239","2,23,170",34,Kirsehir,88105,Central Anatolia
+41,Kocaeli,"3,625.29","12,06,085","14,37,926",397,Izmit,195699,Marmara
+42,Konya,"40,813.52","21,92,166","19,59,082",48,Konya,742690,Central Anatolia
+43,Kutahya,"12,013.57","6,56,903","5,83,910",49,Kutahya,166665,Aegean
+44,Malatya,"12,102.70","8,53,658","7,22,065",60,Malatya,381081,Eastern Anatolia
+45,Manisa,"13,228.50","12,60,169","13,19,920",100,Manisa,214345,Aegean
+46,Kahramanmaras,"14,456.74","10,02,384","10,04,414",69,Kahramanmaras,326198,Mediterranean
+47,Mardin,"8,806.04","7,05,098","7,45,778",85,Mardin,65072,Southeastern Anatolia
+48,Mugla,"12,949.21","7,15,328","7,66,156",59,Mugla,62600,Aegean
+49,Mus,"8,067.16","4,53,654","4,05,509",50,Mus,67927,Eastern Anatolia
+50,Nevsehir,"5,391.64","3,09,914","2,80,058",52,Nevsehir,67864,Central Anatolia
+51,Nigde,"7,365.29","3,48,081","3,31,677",45,Nigde,78088,Central Anatolia
+52,Ordu,"5,952.49","8,87,765","7,15,409",120,Ordu,112525,Black Sea
+53,Rize,"3,921.98","3,65,938","3,16,252",81,Rize,78144,Black Sea
+54,Sakarya,"4,880.19","7,56,168","8,35,222",171,Adapazari,283752,Marmara
+55,Samsun,"9,364.10","12,09,137","12,28,959",131,Samsun,363180,Black Sea
+56,Siirt,"5,473.29","2,63,676","2,91,528",53,Siirt,98281,Southeastern Anatolia
+57,Sinop,"5,816.55","2,25,574","1,98,412",34,Sinop,38600,Black Sea
+58,Sivas,"28,567.34","7,55,091","6,38,464",22,Sivas,251776,Central Anatolia
+59,Tekirdag,"6,342.30","6,23,591","7,28,396",115,Tekirdag,107191,Marmara
+60,Tokat,"10,072.62","8,28,027","6,20,722",62,Tokat,113100,Black Sea
+61,Trabzon,"4,664.04","9,75,137","7,40,569",159,Trabzon,214949,Black Sea
+62,Tunceli,"7,685.66","93,584","84,022",11,Tunceli,32800,Eastern Anatolia
+63,Sanliurfa,"19,336.21","14,43,422","15,23,099",79,Sanliurfa,385588,Southeastern Anatolia
+64,Usak,"5,363.09","3,22,313","3,34,115",62,Usak,137001,Aegean
+65,Van,"19,414.14","8,77,524","9,79,671",50,Van,284464,Eastern Anatolia
+66,Yozgat,"14,074.09","6,82,919","4,92,127",35,Yozgat,73930,Central Anatolia
+67,Zonguldak,"3,309.86","6,15,599","6,15,890",186,Zonguldak,104276,Black Sea
+68,Aksaray,"7,965.51","3,96,084","3,66,109",46,Aksaray,129949,Central Anatolia
+69,Bayburt,"3,739.08","97,358","76,609",20,Bayburt,35400,Black Sea
+70,Karaman,"8,868.90","2,43,210","2,26,049",25,Karaman,105384,Central Anatolia
+71,Kirikkale,"4,569.76","3,83,508","2,80,234",61,Kirikkale,205078,Central Anatolia
+72,Batman,"4,659.21","4,56,734","4,72,487",101,Batman,246678,Southeastern Anatolia
+73,Sirnak,"7,151.57","3,53,197","4,16,001",58,Sirnak,52743,Southeastern Anatolia
+74,Bartin,"2,080.36","1,84,178","1,82,131",88,Bartin,55600,Black Sea
+75,Ardahan,"4,967.63","1,33,756","1,12,721",23,Ardahan,18300,Eastern Anatolia
+76,Igdir,"3,587.81","1,68,634","1,81,866",51,Igdir,59880,Eastern Anatolia
+77,Yalova,850.46,"1,68,593","1,81,758",214,Yalova,70118,Marmara
+78,Karabuk,"4,108.80","2,25,102","2,18,463",53,Karabuk,108000,Black Sea
+79,Kilis,"1,427.76","1,14,724","1,18,457",83,Kilis,70670,Southeastern Anatolia
+80,Osmaniye,"3,195.99","4,58,782","4,52,880",142,Osmaniye,173977,Mediterranean
+81,Duzce,"2,592.95","3,14,266","3,23,328",125,Duzce,56649,Black Sea
